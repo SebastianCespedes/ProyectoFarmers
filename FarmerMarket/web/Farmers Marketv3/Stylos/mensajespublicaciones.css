@@ -1,0 +1,20 @@
+     .errores{
+            background-image: url("../img/errores.png");
+            background-repeat: no-repeat;
+            display: none;
+            margin-top:-80px;
+            margin-left:350px;
+            background-size: 205px 50px;
+            width: 205px;
+            height: 60px;
+            
+            position: absolute;
+
+        }
+        .errores p{
+            margin-top: 9px;
+            text-align: center;
+            font-family: Georgia;
+            font-size: 14px;
+            color: black;
+        }

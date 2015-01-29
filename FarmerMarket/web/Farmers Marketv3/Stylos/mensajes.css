@@ -1,0 +1,36 @@
+        .errores{
+            background-image: url("../img/errores.png");
+            background-repeat: no-repeat;
+            display: none;
+            margin-top:-80px;
+            margin-left:350px;
+            background-size: 205px 50px;
+            width: 205px;
+            height: 60px;
+            
+            position: absolute;
+
+        }
+        .errores p{
+            margin-top: 9px;
+            text-align: center;
+        }
+
+        .erroresregistro{
+            background-image: url("../img/errores.png");
+            background-repeat: no-repeat;            
+            margin-top:-80px;
+            margin-left:270px;
+            background-size: 205px 50px;
+            width: 205px;
+            height: 60px;
+            text-align: center;
+            display: none;
+            font-family: gregorian;            
+            position: absolute;
+        }
+        .erroresregistro p{
+            margin-top: 9px;
+
+        }
+       

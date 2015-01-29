@@ -1,0 +1,17 @@
+	  .errores{
+            background-image: url("../img/errores.png");
+            background-repeat: no-repeat;
+            display: none;
+            margin-top:-80px;
+            margin-left:750px;
+            background-size: 190px 60px;
+            width: 190px;
+            height: 60px;
+            
+            position: absolute;
+
+        }
+        .errores p{
+            margin-top: 5px;
+            text-align: center;
+        }
